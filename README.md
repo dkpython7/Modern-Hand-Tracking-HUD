@@ -2,12 +2,6 @@
 
 > A cutting-edge real-time hand tracking interface with cyberpunk aesthetics, powered by Google's MediaPipe AI and modern web technologies.
 
-[![Demo](https://img.shields.io/badge/🌟-Live%20Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com)
-[![License](https://img.shields.io/badge/📄-MIT%20License-blue?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/⚡-v1.0.0-orange?style=for-the-badge)](releases)
-
----
-
 ## 🎯 What is this?
 
 Transform your webcam into a **futuristic hand tracking interface** straight out of sci-fi movies! This application detects your hands in real-time and visualizes them with glowing effects, particle systems, and a glassmorphism UI that screams "cyberpunk."
