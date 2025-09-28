@@ -346,6 +346,6 @@ copies of the Software.
 
 **Made with ❤️ and lots of ☕**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/modern-hand-hud&type=Date)](https://star-history.com/#yourusername/modern-hand-hud&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dkpython7/modern-hand-hud&type=Date)](https://star-history.com/#yourusername/modern-hand-hud&Date)
 
 </div>
